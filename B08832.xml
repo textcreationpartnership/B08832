@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter to Thomas Buck Esq; beadle to the University of Cambridge.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08832</idno>
+            <idno type="OCLC"> 80922380</idno>
+            <idno type="STC">Wing C6165A</idno>
+            <idno type="STC">ESTC R175828</idno>
+            <idno type="EEBO-CITATION">80922380</idno>
+            <idno type="OCLC">ocm 80922380</idno>
+            <idno type="VID">191846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191846)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2892:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter to Thomas Buck Esq; beadle to the University of Cambridge.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Cambridge? :</pubPlace>
+                  <date>1669]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: Cropped at bottom (with loss of signature and imprint?).</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Buck, Thomas.</term>
+               <term>Administration of estates --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:191846:1" rendition="simple:additions"/>
+            <head>The Copy of a <hi>Letter</hi> to <hi>Thomas Buck</hi> Eſq; Beadle to the <g ref="char:V">Ʋ</g>niverſity of <hi>CAMBRIDGE.</hi>
+            </head>
+            <opener>
+               <salute>Mr. BUCK,</salute>
+            </opener>
+            <p>IF I had been well you ſhould have heard from me before now, concerning a Requeſt you made to Mr. <hi>Turner</hi> in <hi>October</hi> paſt; which as he is pleaſed to relate to me, was, That he would tell me from you that I had wronged the Eſtate at <hi>Therlow</hi> of Two Thouſand Pounds, and that you would prove it to be truth.</p>
+            <p>If you were ſubject to ſpeak truth, or if I were guilty, your dogmatical aſſertion would ſtartle me; but I am ſo well aſſured of my own Integrity, and have been ſo much uſed to ſuch nonninoes from you, and have ſo often baffled and diſproved you concerning ſuch like idle Reports, that all Perſons not willing to be deceived, and that will hear with both Ears, look upon ſuch like Reports from you now, but, as indeed they are, ſome of Mr. <hi>Bucks</hi> Stories; ſo that I ac<g ref="char:EOLhyphen"/>count your tongue no ſlander: But Mr. <hi>Turner</hi> conceives his Diſcretion in queſtion by you for his imploying of me. Therefore for his Vindication, I ſhall once more invite you to a profitable Tryal of your Truth and my Fidelity: But by the way give me leave to ask you a few ſerious Queſtions. Was it diſcretion or honeſty of you, that was intruſted, to receive my Accounts, to give me two or three Diſcharges of them, and for ſuch conſiderable Sums, and never, as you ſay your ſelf, ſo much as to examine them? Was it diſcretion or honeſty about two years after ſuch Diſcharges, to charge me with 2387 <hi>l.</hi> 8 <hi>s.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. and in about two years ſtrong endevours (with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſiſtance of eſpouſed Friends, and foul Play <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o boot) could not prove two pence of that Charge againſt me? Or if you could, Was it diſcretion in you to give me an ample general Diſcharge of all Matters, except 80 <hi>l.</hi> 09 <hi>s.</hi> 04 <hi>d.</hi> for Rent never denied you? Were not you, only, guilty of part of that you charged me withall? Was it diſcretion or honeſty, about three or four years after all this to report that I had wronged the Eſtate of four or five thouſand pound, and yet not to appear to ſo fair a profer as give and take, to make good your Aſſertion, or to vindi<g ref="char:EOLhyphen"/>cate your ſelf? Did you exhibit juſt Accounts, and yet ſometimes want 2387 <hi>l.</hi> 08 <hi>s.</hi> 00 <hi>d.</hi> other times 4 or 5000 <hi>l.</hi> and now 2000 <hi>l.</hi> and could tell no better where to find any of the Sums then at theſe Rates? Did you underſtand your ſelf and my Accounts no better? Do you underſtand either yet? Do you not play the <hi>Lapwing</hi> all this while, and make the biggeſt noiſe fartheſt from the Neſt? Do you believe your ſelf in this Report to Mr. <hi>Turner;</hi> 'tis a Lye that you have told often enough? If you do, you muſt needs be willing to joyn this Iſſue, <hi>viz.</hi> You and I to chuſe either of us a Man, to impower thoſe two to chuſe a third Perſon, all of honeſt Repute, and living within eight Miles of <hi>New-Market;</hi> juſt half way for both of us to meet: Into thoſe three Perſons hands, you and I to depoſite a Hundred Pounds a piece; and if you can make it appear that I have wronged the Eſtate at <hi>Therlow</hi> of Two Thouſand Pounds, ſo as two of thoſe three ſhall ſubſcribe it under their hands, then ſhall they award you all the money; but if you fail of ſuch Proof, then good reaſon it ſhould be awarded me.</p>
+            <p>From the Three and Twentieth Day of <hi>July</hi> to the Second of <hi>Auguſt,</hi> will be my beſt Time to meet; if any of thoſe days ſuit your occaſions, fix your Day, name your Man, and ſend me my Charge in particulars; there is reaſon I ſhould have a few daies to prepare my Defence, you having had ſo many years to prepare a Charge. If my Time ſuit not your Occaſions, do you ſet a Time before <hi>Michaelmaſs</hi> next, Ile ſet Harveſt Occaſions aſide to meet you, as the beſt Harveſt I can make; and 'tis pity but one of us ſhould prove Faithful to that Truſt, ſince you know I did make it appear in ſeveral particulars wherein your Accounts were not juſt; to ſay nothing of your <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. All you can ſay will not ſignifie a jot, nothing but on theſe Terms, To meet</p>
+            <closer>
+               <dateline>
+                  <hi>Weſtly,</hi> 
+                  <date>
+                     <hi>June</hi> 14, 1669</date>
+               </dateline>
+               <signed>
+                  <hi>Your very Friend <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
